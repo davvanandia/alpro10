@@ -1,0 +1,15 @@
+C:\Users\Davina\Documents\alpro10\bin\Debug\net10.0\alpro10.exe
+C:\Users\Davina\Documents\alpro10\bin\Debug\net10.0\alpro10.deps.json
+C:\Users\Davina\Documents\alpro10\bin\Debug\net10.0\alpro10.runtimeconfig.json
+C:\Users\Davina\Documents\alpro10\bin\Debug\net10.0\alpro10.dll
+C:\Users\Davina\Documents\alpro10\bin\Debug\net10.0\alpro10.pdb
+C:\Users\Davina\Documents\alpro10\obj\Debug\net10.0\alpro10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davina\Documents\alpro10\obj\Debug\net10.0\alpro10.AssemblyInfoInputs.cache
+C:\Users\Davina\Documents\alpro10\obj\Debug\net10.0\alpro10.AssemblyInfo.cs
+C:\Users\Davina\Documents\alpro10\obj\Debug\net10.0\alpro10.csproj.CoreCompileInputs.cache
+C:\Users\Davina\Documents\alpro10\obj\Debug\net10.0\alpro10.sourcelink.json
+C:\Users\Davina\Documents\alpro10\obj\Debug\net10.0\alpro10.dll
+C:\Users\Davina\Documents\alpro10\obj\Debug\net10.0\refint\alpro10.dll
+C:\Users\Davina\Documents\alpro10\obj\Debug\net10.0\alpro10.pdb
+C:\Users\Davina\Documents\alpro10\obj\Debug\net10.0\alpro10.genruntimeconfig.cache
+C:\Users\Davina\Documents\alpro10\obj\Debug\net10.0\ref\alpro10.dll
