@@ -47,6 +47,6 @@ class latihan
             Console.WriteLine();
         }
 
-        Console.WriteLine("Maaf, Anda telah kehabisan percobaan. Silakan coba lagi nanti.");
+        Console.WriteLine("Coba Lagi Besok");
     }
 }
