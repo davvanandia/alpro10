@@ -43,6 +43,27 @@ class Program
             }
             Console.WriteLine();
         }
+        Console.WriteLine();
+
+        //5
+        Console.WriteLine("CONTOH BREAK DAN CONTINUE");
+        for (int i = 1; i <= 5; i++)
+        {
+            if (i == 3)
+            {
+                continue;
+            }
+
+            if (i == 5)
+            {
+                break;
+            }
+
+            Console.Write(i + " ");
+        }
+        Console.WriteLine();
+
+        
 
     }
 }
