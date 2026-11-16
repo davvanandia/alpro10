@@ -14,7 +14,7 @@ class latihan
 
         
         
-        for (j = i; j > i; j--)
+        for (int j = i; j > 0; j--)
         {
             Console.Write("Masukkan Username Anda: ");
             string username = Console.ReadLine();
