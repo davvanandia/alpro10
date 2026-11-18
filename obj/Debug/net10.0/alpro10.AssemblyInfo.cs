@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("alpro10")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ddc1422ef38f34462726c8508b94a161633ab99")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45cebfdd1c4b2979cb858192137c4e02eff20be0")]
 [assembly: System.Reflection.AssemblyProductAttribute("alpro10")]
 [assembly: System.Reflection.AssemblyTitleAttribute("alpro10")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
